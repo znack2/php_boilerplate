@@ -11,19 +11,21 @@ labels:
 based on:
 
     phpstorm
+        git 
+        trello
+        tagmycode
+        CI - travis
+        docker
+        composer
+        xdebug
 
 #### server side:
 
-    git 
-    CI - travis
-    docker
-    composer
     php
     node
     graphQL
     postgres
     redis
-    xdebug
 
 #### client side:
 
@@ -43,4 +45,6 @@ based on:
 
 ## DONE
 
-- [git project](./docker/README.md)
+- [git project](https://github.com/znack2/php_boilerplate)
+- [trello tasks](https://trello.com/b/PY6Kz4AC/todo)
+- 
